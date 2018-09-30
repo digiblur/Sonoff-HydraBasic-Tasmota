@@ -4,7 +4,6 @@ Sonoff Basic Expansion Mod - Capacitive Buttons, PIR Motion Sensors, Tasmota Fir
 Video of the Sonoff Hydra-Basic and Setup - 
 
 ### Parts List
-- [WiFi Dimmer Module](https://amzn.to/2zrGCou)
 - [Sonoff Basic 6 pack](https://amzn.to/2R7HRQy) 
 - [or 4 pack](https://amzn.to/2Qh8t0j)
 - [USB FTDI Adapter to Flash the Unit](https://amzn.to/2QXC5AU)
