@@ -1,7 +1,7 @@
 # Sonoff-HydraBasic-Tasmota
 Sonoff Basic Expansion Mod - Capacitive Buttons, PIR Motion Sensors, Tasmota Firmware Rules and more!
 
-Video of the Sonoff Hydra-Basic and Setup - 
+Video of the Sonoff Hydra-Basic and Setup - https://www.youtube.com/watch?v=WsatPkC2Hf0
 
 ### Parts List
 - [Sonoff Basic 6 pack](https://amzn.to/2R7HRQy) 
