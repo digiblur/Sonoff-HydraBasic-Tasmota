@@ -4,15 +4,15 @@ Sonoff Basic Expansion Mod - Capacitive Buttons, PIR Motion Sensors, Tasmota Fir
 Video of the Sonoff Hydra-Basic and Setup - https://www.youtube.com/watch?v=WsatPkC2Hf0
 
 ### Parts List
-- [Sonoff Basic 6 pack](https://amzn.to/2R7HRQy) 
-- [or 4 pack](https://amzn.to/2Qh8t0j)
-- [USB FTDI Adapter to Flash the Unit](https://amzn.to/2QXC5AU)
-- [Male Headers](https://amzn.to/2OnGpuZ)
-- [AM312 PIR Sensor](https://amzn.to/2Ql1qnk)
-- [Capacitive Touch Button (Red)](https://amzn.to/2OtIrtk)
-- [or (Green)](https://amzn.to/2IrbQiD)
-- [Jumper Wires](https://amzn.to/2OtIDJ4)
-- [Fuses (optional but recommended)](https://amzn.to/2Ir7at4)
+- [Sonoff Basic 6 pack](https://amzn.to/2CRop5O) 
+- [or 4 pack](https://amzn.to/2PuXovH)
+- [USB FTDI Adapter to Flash the Unit](https://amzn.to/2Rpu9rx)
+- [Male Headers](https://amzn.to/2JtX1fB)
+- [AM312 PIR Sensor](https://amzn.to/2DhrkpA)
+- [Capacitive Touch Button (Red)](https://amzn.to/2PyiglV)
+- [or (Green)](https://amzn.to/2DduD0R)
+- [Jumper Wires](https://amzn.to/2DcCiMX)
+- [Fuses (optional but recommended)](https://amzn.to/2JvHeNy)
 
 DrZzs video on step by step how to flash a Sonoff - https://www.youtube.com/watch?v=KMiP9Ku71To
 
